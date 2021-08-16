@@ -1,0 +1,23 @@
+{
+  "name": "rarible-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansijoshi17/Rarible-Clone-Moralis-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansijoshi17/Rarible-Clone-Moralis-/issues"
+  },
+  "homepage": "https://github.com/mansijoshi17/Rarible-Clone-Moralis-#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "truffle": "^5.4.5"
+  }
+}
